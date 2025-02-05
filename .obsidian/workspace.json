@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "2d4ad2221ee0c22f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a23ca2f75084a1dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6b93a2b9bdc3ebe",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Aura.canvas",
+                "viewState": {
+                  "x": 8.725236982766774,
+                  "y": 1716.2898302456078,
+                  "zoom": -1.0886235798853006
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Aura"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ecafbbe343ad71e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d8a8079c770f398",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d9ef6d19430997a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4daf4a983437dacc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e09df2fb3dbef5f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a85427bef535b3ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "a88f49854be0d027",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84ce533b434603dd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Unreal Engine 5 C++ Multiplayer Shooter.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Unreal Engine 5 C++ Multiplayer Shooter"
+            }
+          },
+          {
+            "id": "2149c6e3a33b3993",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Unreal Engine 5 C++ Multiplayer Shooter.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Unreal Engine 5 C++ Multiplayer Shooter"
+            }
+          },
+          {
+            "id": "8bd4d9572b3e689e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "df69927f3ec19109",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Unreal Engine 5 C++ Multiplayer Shooter.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Unreal Engine 5 C++ Multiplayer Shooter"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f6b93a2b9bdc3ebe",
+  "lastOpenFiles": [
+    "Blaster.canvas",
+    "Aura.canvas",
+    "Unreal Engine.md",
+    "Class/AActor.md",
+    "ad.md",
+    "Class/UObject.md",
+    "ada.md",
+    "Class",
+    "Locomotion.canvas",
+    "Tags/q.md",
+    "Excalidraw/oo.md",
+    "Excalidraw/Excalidraw.md",
+    "Excalidraw/i.md",
+    "Tags/w.md",
+    "Tags/Tags.md",
+    "Tags",
+    "Excalidraw/Drawing 2025-02-04 11.23.03.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-04 11.20.31.excalidraw.md",
+    "Excalidraw",
+    "Seamless Travel.md",
+    "locomotion.md",
+    "Welcome.md"
+  ]
+}
