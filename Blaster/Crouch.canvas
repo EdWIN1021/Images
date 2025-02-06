@@ -1,0 +1,163 @@
+{
+  "edges": [
+    {
+      "fromNode": "96b4594266f71621",
+      "fromSide": "bottom",
+      "id": "52c315872fc3cb67",
+      "label": "False",
+      "toNode": "bf36cb0ba49d344d",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "96b4594266f71621",
+      "fromSide": "bottom",
+      "id": "ee3496bd7c241387",
+      "label": "True",
+      "toNode": "39a60ae0e5f89a28",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "39a60ae0e5f89a28",
+      "fromSide": "bottom",
+      "id": "e0d5cb3c2bf497f5",
+      "toNode": "490f219ecc58b309",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "bf36cb0ba49d344d",
+      "fromSide": "bottom",
+      "id": "3cec0cd6cab0fa34",
+      "toNode": "490f219ecc58b309",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "13ee3ee001bb1a87",
+      "fromSide": "bottom",
+      "id": "cce355da168e5db0",
+      "toNode": "6c5d00be72622379",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "490f219ecc58b309",
+      "fromSide": "right",
+      "id": "370e1243dd81224d",
+      "toNode": "6c5d00be72622379",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 880,
+      "id": "061ef88d5a0f6940",
+      "label": "Crouch",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1560,
+      "x": -780,
+      "y": -440
+    },
+    {
+      "color": "1",
+      "height": 660,
+      "id": "6dc30b10162f4ff3",
+      "label": "ABlasterCharacter",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 780,
+      "x": -600,
+      "y": -320
+    },
+    {
+      "color": "2",
+      "height": 480,
+      "id": "59bdd420516c8182",
+      "label": "UAnimInstance",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 400,
+      "x": 260,
+      "y": -140
+    },
+    {
+      "color": "4",
+      "height": 80,
+      "id": "96b4594266f71621",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "CrouchButtonPressed",
+      "type": "text",
+      "width": 280,
+      "x": -400,
+      "y": -280
+    },
+    {
+      "color": "4",
+      "height": 90,
+      "id": "39a60ae0e5f89a28",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Crouch",
+      "type": "text",
+      "width": 260,
+      "x": -560,
+      "y": -61
+    },
+    {
+      "color": "4",
+      "height": 90,
+      "id": "bf36cb0ba49d344d",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "UnCrouch",
+      "type": "text",
+      "width": 240,
+      "x": -180,
+      "y": -61
+    },
+    {
+      "color": "4",
+      "height": 79,
+      "id": "13ee3ee001bb1a87",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "NativeUpdateAnimation",
+      "type": "text",
+      "width": 250,
+      "x": 340,
+      "y": -61
+    },
+    {
+      "color": "5",
+      "height": 74,
+      "id": "6c5d00be72622379",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "bIsCrouched",
+      "type": "text",
+      "width": 250,
+      "x": 340,
+      "y": 189
+    },
+    {
+      "color": "5",
+      "height": 73,
+      "id": "490f219ecc58b309",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "bIsCrouched",
+      "type": "text",
+      "width": 280,
+      "x": -400,
+      "y": 190
+    }
+  ]
+}

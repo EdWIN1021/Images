@@ -1,0 +1,454 @@
+{
+  "edges": [
+    {
+      "fromNode": "0e2b93396817abf5",
+      "fromSide": "right",
+      "id": "e26913396af3782d",
+      "toNode": "a499d3a8bb6297d3",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "00c4562abd14f213",
+      "fromSide": "right",
+      "id": "c69f77d5f1fd9502",
+      "toNode": "0e2b93396817abf5",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d8d86ce5ad46ac4e",
+      "fromSide": "right",
+      "id": "5dfdc872555fad42",
+      "label": "ServerTravel",
+      "toNode": "619b15ce1a94bab0",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "58d178034331c56b",
+      "fromSide": "right",
+      "id": "9e3ba973b3099129",
+      "toNode": "681140bc7f0d10fb",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "681140bc7f0d10fb",
+      "fromSide": "right",
+      "id": "1cc384e0541cdf72",
+      "label": "ServerTravel",
+      "toNode": "d8d86ce5ad46ac4e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e36eaaf879f9aeba",
+      "fromSide": "left",
+      "id": "2bb91d276a6099c5",
+      "label": "FOnJoinSessionCompleteDelegate",
+      "toNode": "a27bfa6df43b82da",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "ea6e9e336a1bb5bc",
+      "fromSide": "right",
+      "id": "3421de7d5435d0ec",
+      "toNode": "e36eaaf879f9aeba",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "702f155df288fb39",
+      "fromSide": "right",
+      "id": "c22d42bf0ab822a4",
+      "toNode": "f8dedb7599fb0fc5",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "0217dfd9d46bece1",
+      "fromSide": "left",
+      "id": "f4b1aba0cb379a3e",
+      "label": "FMultiplayerOnCreateSessionComplete",
+      "toNode": "0059f2594e94af91",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "e64dee37721f2709",
+      "fromSide": "right",
+      "id": "c34138d2c9f66b58",
+      "toNode": "6c332c591efef3fb",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "eabfee878d37c31b",
+      "fromSide": "bottom",
+      "id": "1c7b2498898d44ef",
+      "toNode": "7bcc8070a12d7acf",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "a27bfa6df43b82da",
+      "fromSide": "left",
+      "id": "641748d463adcf0d",
+      "label": "FMultiplayerOnJoinSessionComplete",
+      "toNode": "eabfee878d37c31b",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "a254ce7f5c5deb79",
+      "fromSide": "right",
+      "id": "fba4c6fd9aba1915",
+      "toNode": "ea6e9e336a1bb5bc",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "3dc71ab1663eb3c8",
+      "fromSide": "left",
+      "id": "af13c6ab9c7ecaa7",
+      "label": "FMultiplayerOnFindSessionsComplete",
+      "toNode": "a254ce7f5c5deb79",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "d9918956bcfced4d",
+      "fromSide": "left",
+      "id": "dcc0510f1e57cec0",
+      "label": "FOnFindSessionsCompleteDelegate",
+      "toNode": "3dc71ab1663eb3c8",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "f8dedb7599fb0fc5",
+      "fromSide": "right",
+      "id": "d119ca5c3bf55d26",
+      "toNode": "d9918956bcfced4d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "8234408e4a262650",
+      "fromSide": "left",
+      "id": "4bc9e91b4d3d21c4",
+      "label": "FOnCreateSessionCompleteDelegate",
+      "toNode": "0217dfd9d46bece1",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "6c332c591efef3fb",
+      "fromSide": "right",
+      "id": "d0dcb5e8d4b2071d",
+      "toNode": "8234408e4a262650",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 2400,
+      "id": "b9b6124be24a099e",
+      "label": "Session",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 9520,
+      "x": -4800,
+      "y": -1360
+    },
+    {
+      "height": 1960,
+      "id": "0e2b93396817abf5",
+      "label": "Plugin",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 3560,
+      "x": -2800,
+      "y": -1100
+    },
+    {
+      "height": 840,
+      "id": "6e7963d730836532",
+      "label": "Join Server",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 2631,
+      "x": -2320,
+      "y": -300
+    },
+    {
+      "color": "5",
+      "height": 1500,
+      "id": "67545082a49bb928",
+      "label": "Menu",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 720,
+      "x": -2480,
+      "y": -820
+    },
+    {
+      "color": "3",
+      "height": 1500,
+      "id": "5c281fb67add6154",
+      "label": "SessionInterface",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 720,
+      "x": -280,
+      "y": -820
+    },
+    {
+      "height": 340,
+      "id": "46694938d3c34505",
+      "label": "Create Session",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 2631,
+      "x": -2320,
+      "y": -740
+    },
+    {
+      "color": "1",
+      "height": 1000,
+      "id": "00c4562abd14f213",
+      "label": "GameStartupMap",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 880,
+      "x": -4560,
+      "y": -620
+    },
+    {
+      "color": "1",
+      "height": 1500,
+      "id": "60494ea944606600",
+      "label": "MultiplayerSessionSubsystem",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 560,
+      "x": -1320,
+      "y": -820
+    },
+    {
+      "color": "5",
+      "height": 600,
+      "id": "a499d3a8bb6297d3",
+      "label": "LobbyMap",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1280,
+      "x": 1320,
+      "y": -419
+    },
+    {
+      "color": "2",
+      "height": 813,
+      "id": "619b15ce1a94bab0",
+      "label": "BlasterMap",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 780,
+      "x": 3720,
+      "y": -526
+    },
+    {
+      "height": 60,
+      "id": "ea6e9e336a1bb5bc",
+      "styleAttributes": {
+      },
+      "text": "JoinSession",
+      "type": "text",
+      "width": 237,
+      "x": -1206,
+      "y": 40
+    },
+    {
+      "height": 65,
+      "id": "0217dfd9d46bece1",
+      "styleAttributes": {
+      },
+      "text": "OnCreateSessionComplete",
+      "type": "text",
+      "width": 277,
+      "x": -1173,
+      "y": -559
+    },
+    {
+      "height": 54,
+      "id": "6c332c591efef3fb",
+      "styleAttributes": {
+      },
+      "text": "CreateSession",
+      "type": "text",
+      "width": 250,
+      "x": -1160,
+      "y": -680
+    },
+    {
+      "height": 60,
+      "id": "3dc71ab1663eb3c8",
+      "styleAttributes": {
+      },
+      "text": "OnFindSessionsComplete",
+      "type": "text",
+      "width": 250,
+      "x": -1219,
+      "y": -100
+    },
+    {
+      "height": 54,
+      "id": "f8dedb7599fb0fc5",
+      "styleAttributes": {
+      },
+      "text": "FindSessions",
+      "type": "text",
+      "width": 250,
+      "x": -1219,
+      "y": -240
+    },
+    {
+      "height": 60,
+      "id": "a27bfa6df43b82da",
+      "styleAttributes": {
+      },
+      "text": "OnJoinSessionComplete",
+      "type": "text",
+      "width": 250,
+      "x": -1205,
+      "y": 220
+    },
+    {
+      "height": 60,
+      "id": "d9918956bcfced4d",
+      "styleAttributes": {
+      },
+      "text": "FindSessions",
+      "type": "text",
+      "width": 250,
+      "x": -159,
+      "y": -160
+    },
+    {
+      "height": 60,
+      "id": "8234408e4a262650",
+      "styleAttributes": {
+      },
+      "text": "CreateSession",
+      "type": "text",
+      "width": 237,
+      "x": -100,
+      "y": -619
+    },
+    {
+      "height": 140,
+      "id": "d8d86ce5ad46ac4e",
+      "styleAttributes": {
+      },
+      "text": "TransitionMap",
+      "type": "text",
+      "width": 260,
+      "x": 3000,
+      "y": -190
+    },
+    {
+      "height": 130,
+      "id": "58d178034331c56b",
+      "styleAttributes": {
+      },
+      "text": "LobbyGameMode\n",
+      "type": "text",
+      "width": 282,
+      "x": 1440,
+      "y": -179
+    },
+    {
+      "height": 130,
+      "id": "681140bc7f0d10fb",
+      "styleAttributes": {
+      },
+      "text": "PostLogin\n\nif number of player == 2",
+      "type": "text",
+      "width": 300,
+      "x": 2000,
+      "y": -179
+    },
+    {
+      "height": 60,
+      "id": "e36eaaf879f9aeba",
+      "styleAttributes": {
+      },
+      "text": "JoinSession",
+      "type": "text",
+      "width": 250,
+      "x": -166,
+      "y": 160
+    },
+    {
+      "height": 62,
+      "id": "7bcc8070a12d7acf",
+      "styleAttributes": {
+      },
+      "text": "Lobby",
+      "type": "text",
+      "width": 279,
+      "x": -2300,
+      "y": 420
+    },
+    {
+      "height": 60,
+      "id": "a254ce7f5c5deb79",
+      "styleAttributes": {
+      },
+      "text": "OnFindSessions",
+      "type": "text",
+      "width": 250,
+      "x": -2271,
+      "y": -20
+    },
+    {
+      "height": 54,
+      "id": "e64dee37721f2709",
+      "styleAttributes": {
+      },
+      "text": "HostButtonClicked",
+      "type": "text",
+      "width": 250,
+      "x": -2240,
+      "y": -680
+    },
+    {
+      "height": 60,
+      "id": "0059f2594e94af91",
+      "styleAttributes": {
+      },
+      "text": "OnCreateSession",
+      "type": "text",
+      "width": 250,
+      "x": -2238,
+      "y": -559
+    },
+    {
+      "height": 54,
+      "id": "702f155df288fb39",
+      "styleAttributes": {
+      },
+      "text": "JoinButtonClicked",
+      "type": "text",
+      "width": 250,
+      "x": -2286,
+      "y": -240
+    },
+    {
+      "height": 60,
+      "id": "eabfee878d37c31b",
+      "styleAttributes": {
+      },
+      "text": "OnJoinSession",
+      "type": "text",
+      "width": 250,
+      "x": -2286,
+      "y": 220
+    }
+  ]
+}

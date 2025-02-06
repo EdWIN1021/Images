@@ -1,0 +1,153 @@
+{
+  "edges": [
+    {
+      "fromNode": "b515460b16f4ea7e",
+      "fromSide": "bottom",
+      "id": "ee9f6306df8a6664",
+      "label": "Click",
+      "styleAttributes": {
+      },
+      "toNode": "56d536be611d61fd",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "56d536be611d61fd",
+      "fromSide": "bottom",
+      "id": "725889d0c14134fe",
+      "styleAttributes": {
+      },
+      "toNode": "8ef618353af69d63",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "8ef618353af69d63",
+      "fromSide": "bottom",
+      "id": "3b76bea8d12ddba5",
+      "styleAttributes": {
+      },
+      "toNode": "924f105bd3c6ac5c",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "924f105bd3c6ac5c",
+      "fromSide": "right",
+      "id": "00c770d482befd68",
+      "label": "FGameplayEventData / Actor / AttributeTag",
+      "styleAttributes": {
+      },
+      "toNode": "f0635f6b465474a4",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 800,
+      "id": "1a4f082003cf861c",
+      "label": "WBP_TextValueButtonRow",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 2560,
+      "x": -3640,
+      "y": -560
+    },
+    {
+      "height": 540,
+      "id": "8b0a43f41ea36f8f",
+      "label": "UAbilitySystemBlueprintLibrary",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1240,
+      "x": -3600,
+      "y": 2120
+    },
+    {
+      "height": 480,
+      "id": "dcc85d76de5b0bb8",
+      "label": "UAuraAbilitySystemComponent",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1240,
+      "x": -3640,
+      "y": 1320
+    },
+    {
+      "height": 460,
+      "id": "1897d2ef627894fb",
+      "label": "UAttributeMenuWidgetController",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1240,
+      "x": -3640,
+      "y": 520
+    },
+    {
+      "color": "4",
+      "height": 280,
+      "id": "924f105bd3c6ac5c",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "SendGameplayEventToActor",
+      "type": "text",
+      "width": 480,
+      "x": -3220,
+      "y": 2240
+    },
+    {
+      "color": "5",
+      "height": 340,
+      "id": "f0635f6b465474a4",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "GA_ListenForEvent",
+      "type": "text",
+      "width": 820,
+      "x": -2060,
+      "y": 2200
+    },
+    {
+      "color": "4",
+      "height": 240,
+      "id": "56d536be611d61fd",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "UpgradeAttribute",
+      "type": "text",
+      "width": 420,
+      "x": -3200,
+      "y": 640
+    },
+    {
+      "color": "3",
+      "height": 180,
+      "id": "b515460b16f4ea7e",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "WBP_Button",
+      "type": "text",
+      "width": 300,
+      "x": -3140,
+      "y": -200
+    },
+    {
+      "color": "4",
+      "height": 220,
+      "id": "8ef618353af69d63",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "UpgradeAttribute",
+      "type": "text",
+      "width": 380,
+      "x": -3180,
+      "y": 1440
+    }
+  ]
+}

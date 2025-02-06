@@ -1,0 +1,925 @@
+{
+  "edges": [
+    {
+      "color": "4",
+      "fromNode": "97b2cac9fe2817cc",
+      "fromSide": "right",
+      "id": "acf00eaa50c6b6fa",
+      "label": "Create Widget",
+      "styleAttributes": {
+      },
+      "toNode": "1cc9a2d10a1e1e48",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "088b7895a966ea88",
+      "fromSide": "left",
+      "id": "3595572f36fbaa94",
+      "styleAttributes": {
+      },
+      "toNode": "7e0b07c4483df2cb",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "f6cef6e41f35bb19",
+      "fromSide": "left",
+      "id": "2157a92fc539d019",
+      "styleAttributes": {
+      },
+      "toNode": "7e0b07c4483df2cb",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "f6cef6e41f35bb19",
+      "fromSide": "bottom",
+      "id": "01b1392071ed78a9",
+      "styleAttributes": {
+      },
+      "toNode": "cb33e8d9fc32e86e",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "088b7895a966ea88",
+      "fromSide": "bottom",
+      "id": "65e4a60906ee482b",
+      "label": "AuraCharacter / Points",
+      "styleAttributes": {
+      },
+      "toNode": "f6cef6e41f35bb19",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "64dd5f0f669595e4",
+      "fromSide": "left",
+      "id": "8b693116dbcb6f85",
+      "label": "AttributeMenuWidgetController",
+      "styleAttributes": {
+      },
+      "toNode": "ecfcfae844ec9537",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "64dd5f0f669595e4",
+      "fromSide": "right",
+      "id": "a0a862e547c57f33",
+      "label": "WidgetControllerParams",
+      "styleAttributes": {
+      },
+      "toNode": "8e96e59c3f044076",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "482c7053950d2016",
+      "fromSide": "left",
+      "id": "97bd215178d4abf2",
+      "label": "AttributeMenuWidgetController",
+      "styleAttributes": {
+      },
+      "toNode": "64dd5f0f669595e4",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "8e96e59c3f044076",
+      "fromSide": "bottom",
+      "id": "a73c2f7444afc9f9",
+      "label": "WidgetControllerParams",
+      "styleAttributes": {
+      },
+      "toNode": "482c7053950d2016",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "ecfcfae844ec9537",
+      "fromSide": "top",
+      "id": "24deebef27b9de68",
+      "label": "AttributeMenuWidgetController",
+      "styleAttributes": {
+      },
+      "toNode": "021f89c56baae002",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "ecfcfae844ec9537",
+      "fromSide": "bottom",
+      "id": "3974c157842d3ae0",
+      "label": "AttributeMenuWidgetController",
+      "styleAttributes": {
+      },
+      "toNode": "b0b43f9a04a4463f",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "03fc33e96b6d197a",
+      "fromSide": "right",
+      "id": "62dd960e09761c65",
+      "styleAttributes": {
+      },
+      "toNode": "ecfcfae844ec9537",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "cf48fab10f051359",
+      "fromSide": "bottom",
+      "id": "c2f221e2ac1d7e04",
+      "styleAttributes": {
+      },
+      "toNode": "f9c70ba1c078b5de",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "1e6559721882626f",
+      "fromSide": "right",
+      "id": "0406511046877e2f",
+      "label": "Points",
+      "styleAttributes": {
+      },
+      "toNode": "cf48fab10f051359",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b0b43f9a04a4463f",
+      "fromSide": "bottom",
+      "id": "576dac7e91cbb85b",
+      "styleAttributes": {
+      },
+      "toNode": "62f5fd62ebe61c15",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "b0b43f9a04a4463f",
+      "fromSide": "left",
+      "id": "afcd98fb90ec2970",
+      "label": "AttributeMenuWidgetController",
+      "styleAttributes": {
+      },
+      "toNode": "34e0f94d39ef497f",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "1e6559721882626f",
+      "fromSide": "top",
+      "id": "b21bb25d3bf8c0e0",
+      "label": "Bind",
+      "styleAttributes": {
+      },
+      "toNode": "62f5fd62ebe61c15",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "11966cff1812a044",
+      "fromSide": "left",
+      "id": "06abe8da292ea8b7",
+      "styleAttributes": {
+      },
+      "toNode": "7c904dcad3de02f4",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "11966cff1812a044",
+      "fromSide": "bottom",
+      "id": "7a5dc0140ad01b5e",
+      "styleAttributes": {
+      },
+      "toNode": "9aee1cae06c64221",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "cb33e8d9fc32e86e",
+      "fromSide": "left",
+      "id": "d8ae0a32be661688",
+      "label": "InPoints",
+      "styleAttributes": {
+      },
+      "toNode": "11966cff1812a044",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "c9e15a068f141914",
+      "fromSide": "right",
+      "id": "165a0186f657317f",
+      "styleAttributes": {
+      },
+      "toNode": "04f5968c6c64c0aa",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "2569ad543ea3c0ea",
+      "fromSide": "top",
+      "id": "6a2aa0e27c5b0632",
+      "styleAttributes": {
+      },
+      "toNode": "04f5968c6c64c0aa",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "40df7dcba152af4b",
+      "fromSide": "right",
+      "id": "12320f273b3386dd",
+      "label": "Broadcast: Points",
+      "styleAttributes": {
+      },
+      "toNode": "c9e15a068f141914",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "223ce342f17b7c27",
+      "fromSide": "top",
+      "id": "e901b4a3eef032c4",
+      "styleAttributes": {
+        "arrow": null,
+        "path": "dotted",
+        "pathfindingMethod": "direct"
+      },
+      "toNode": "40df7dcba152af4b",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "9aee1cae06c64221",
+      "fromSide": "right",
+      "id": "cd3560c22fff7176",
+      "styleAttributes": {
+      },
+      "toNode": "40df7dcba152af4b",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "58161be7714045fa",
+      "fromSide": "left",
+      "id": "ee19df17c511b622",
+      "styleAttributes": {
+      },
+      "toNode": "08e3f4dc849cfc04",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "58161be7714045fa",
+      "fromSide": "right",
+      "id": "d0014785ea1f992b",
+      "label": "AttributePoints",
+      "styleAttributes": {
+      },
+      "toNode": "ac8b73e59f8de9ec",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "1836036268958af7",
+      "fromSide": "right",
+      "id": "680f2ae4e94f0e24",
+      "label": "Broadcast: Attribute Menu Construct",
+      "styleAttributes": {
+      },
+      "toNode": "ca573963d1e034aa",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "cf0d790385b8ff7f",
+      "fromSide": "top",
+      "id": "217bed381c06fd49",
+      "styleAttributes": {
+      },
+      "toNode": "ca573963d1e034aa",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "ac8b73e59f8de9ec",
+      "fromSide": "right",
+      "id": "8bbfe7bfb3a16b4a",
+      "label": "AttributePoints",
+      "styleAttributes": {
+      },
+      "toNode": "1836036268958af7",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "cb33e8d9fc32e86e",
+      "fromSide": "right",
+      "id": "eadcb6b7217a588c",
+      "styleAttributes": {
+      },
+      "toNode": "40df7dcba152af4b",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "04f5968c6c64c0aa",
+      "fromSide": "top",
+      "id": "4c783b87d463d776",
+      "styleAttributes": {
+      },
+      "toNode": "1f01864b7279318f",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "ca573963d1e034aa",
+      "fromSide": "top",
+      "id": "f86200c7da267318",
+      "styleAttributes": {
+      },
+      "toNode": "f60cd758d7a930a6",
+      "toSide": "bottom"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 2560,
+      "id": "3f71c7c91ab952ad",
+      "label": "Show Attribute Points",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 6460,
+      "x": -4940,
+      "y": -1040
+    },
+    {
+      "height": 2040,
+      "id": "21cb94c20b8ade67",
+      "label": "WBP_Overlay",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 6200,
+      "x": -4680,
+      "y": -3680
+    },
+    {
+      "height": 1680,
+      "id": "7a547bcf4639bf63",
+      "label": "InitialAttributePoints",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 5040,
+      "x": -4940,
+      "y": 1920
+    },
+    {
+      "height": 1760,
+      "id": "1cc9a2d10a1e1e48",
+      "label": "WBP_AttributeMenu",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 2360,
+      "x": -3800,
+      "y": -3520
+    },
+    {
+      "color": "1",
+      "height": 800,
+      "id": "7ec2ba5ed01d67cf",
+      "label": "PlayerState",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 2760,
+      "x": -4060,
+      "y": 420
+    },
+    {
+      "color": "3",
+      "height": 660,
+      "id": "f3ec4c096e6e4b17",
+      "label": "UAttributeMenuWidgetController",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1990,
+      "x": -2080,
+      "y": 2760
+    },
+    {
+      "color": "3",
+      "height": 740,
+      "id": "54e166252e477c64",
+      "label": "UAttributeMenuWidgetController",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1720,
+      "x": -740,
+      "y": 480
+    },
+    {
+      "color": "1",
+      "height": 600,
+      "id": "47420ec71ac77bdd",
+      "label": "PlayerState",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1910,
+      "x": -4540,
+      "y": 2680
+    },
+    {
+      "height": 540,
+      "id": "1ae6b49c390a8b5d",
+      "label": "WBP_AttributePointsRow",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1400,
+      "x": -3520,
+      "y": -2860
+    },
+    {
+      "color": "2",
+      "height": 640,
+      "id": "21ee5106150914bb",
+      "label": "AuraHUD",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 600,
+      "x": 400,
+      "y": -3360
+    },
+    {
+      "height": 400,
+      "id": "9e5a475d24cfb453",
+      "label": "AuraCharacter",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 669,
+      "x": -2849,
+      "y": -320
+    },
+    {
+      "height": 320,
+      "id": "be862a5f4ff4805c",
+      "label": "WBP_AttributeMenu",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 760,
+      "x": 160,
+      "y": -120
+    },
+    {
+      "height": 320,
+      "id": "f60cd758d7a930a6",
+      "label": "WBP_AttributeMenu",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 760,
+      "x": -880,
+      "y": 2120
+    },
+    {
+      "height": 300,
+      "id": "607e07bce6acae5c",
+      "label": "AtrributeSet",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 669,
+      "x": -2849,
+      "y": -850
+    },
+    {
+      "color": "5",
+      "height": 240,
+      "id": "fb0b6dfd0eeafd96",
+      "label": "UAuraAbilitySystemLibrary",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 540,
+      "x": -1080,
+      "y": -3320
+    },
+    {
+      "height": 260,
+      "id": "1ed08f743382288c",
+      "label": "IPlayerInterface",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 466,
+      "x": -3720,
+      "y": -580
+    },
+    {
+      "color": "4",
+      "height": 180,
+      "id": "ecfcfae844ec9537",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "SetWidgetController",
+      "type": "text",
+      "width": 280,
+      "x": -2640,
+      "y": -3308
+    },
+    {
+      "color": "5",
+      "height": 80,
+      "id": "021f89c56baae002",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "WidgetController",
+      "type": "text",
+      "width": 260,
+      "x": -2630,
+      "y": -3500
+    },
+    {
+      "height": 160,
+      "id": "7e0b07c4483df2cb",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "AddToAttributePoints",
+      "type": "text",
+      "width": 324,
+      "x": -3639,
+      "y": -520
+    },
+    {
+      "color": "1",
+      "height": 148,
+      "id": "03fc33e96b6d197a",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Event Construct",
+      "type": "text",
+      "width": 420,
+      "x": -3460,
+      "y": -3292
+    },
+    {
+      "color": "5",
+      "height": 110,
+      "id": "cf48fab10f051359",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "SetText",
+      "type": "text",
+      "width": 300,
+      "x": -1920,
+      "y": -2195
+    },
+    {
+      "color": "4",
+      "height": 164,
+      "id": "08e3f4dc849cfc04",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "GetLifetimeReplicatedProps",
+      "type": "text",
+      "width": 380,
+      "x": -4390,
+      "y": 2897
+    },
+    {
+      "color": "5",
+      "height": 278,
+      "id": "58161be7714045fa",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "AttributePoints",
+      "type": "text",
+      "width": 325,
+      "x": -3770,
+      "y": 2840
+    },
+    {
+      "color": "4",
+      "height": 184,
+      "id": "ac8b73e59f8de9ec",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "GetAttributePoints",
+      "type": "text",
+      "width": 390,
+      "x": -3130,
+      "y": 2884
+    },
+    {
+      "height": 160,
+      "id": "088b7895a966ea88",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Execute_AddToAttributePoints",
+      "type": "text",
+      "width": 468,
+      "x": -2754,
+      "y": -770
+    },
+    {
+      "height": 220,
+      "id": "f6cef6e41f35bb19",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "AddToAttributePoints_Implementation",
+      "type": "text",
+      "width": 476,
+      "x": -2763,
+      "y": -240
+    },
+    {
+      "color": "1",
+      "height": 160,
+      "id": "1f01864b7279318f",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "AttributePointsChangedDelegateEvent",
+      "type": "text",
+      "width": 540,
+      "x": 280,
+      "y": -40
+    },
+    {
+      "color": "1",
+      "height": 160,
+      "id": "1e6559721882626f",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "AttributePointsChangedDelegateEvent",
+      "type": "text",
+      "width": 540,
+      "x": -2760,
+      "y": -2220
+    },
+    {
+      "color": "4",
+      "height": 164,
+      "id": "7c904dcad3de02f4",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "GetLifetimeReplicatedProps",
+      "type": "text",
+      "width": 380,
+      "x": -3980,
+      "y": 614
+    },
+    {
+      "color": "5",
+      "height": 278,
+      "id": "11966cff1812a044",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "AttributePoints",
+      "type": "text",
+      "width": 325,
+      "x": -3407,
+      "y": 557
+    },
+    {
+      "color": "4",
+      "height": 120,
+      "id": "9aee1cae06c64221",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "OnRep_AttributePoints",
+      "type": "text",
+      "width": 330,
+      "x": -3407,
+      "y": 980
+    },
+    {
+      "color": "3",
+      "height": 100,
+      "id": "97b2cac9fe2817cc",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "Attribute Menu Button\n",
+      "type": "text",
+      "width": 260,
+      "x": -4560,
+      "y": -2699
+    },
+    {
+      "color": "4",
+      "height": 203,
+      "id": "cb33e8d9fc32e86e",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "AddToAttributePoints",
+      "type": "text",
+      "width": 320,
+      "x": -2680,
+      "y": 595
+    },
+    {
+      "height": 170,
+      "id": "40df7dcba152af4b",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "OnAttributePointsChangedDelegate",
+      "type": "text",
+      "width": 450,
+      "x": -1955,
+      "y": 611
+    },
+    {
+      "height": 115,
+      "id": "f9c70ba1c078b5de",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "FramedValue",
+      "type": "text",
+      "width": 280,
+      "x": -1910,
+      "y": -1920
+    },
+    {
+      "color": "6",
+      "height": 125,
+      "id": "223ce342f17b7c27",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "FOnPlayerStateChanged",
+      "type": "text",
+      "width": 390,
+      "x": -1925,
+      "y": 1040
+    },
+    {
+      "color": "4",
+      "height": 195,
+      "id": "b0b43f9a04a4463f",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "SetWidgetController",
+      "type": "text",
+      "width": 260,
+      "x": -2620,
+      "y": -2797
+    },
+    {
+      "color": "4",
+      "height": 234,
+      "id": "1836036268958af7",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "BroadcastInitialValues",
+      "type": "text",
+      "width": 465,
+      "x": -2000,
+      "y": 2859
+    },
+    {
+      "color": "5",
+      "height": 80,
+      "id": "34e0f94d39ef497f",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "WidgetController",
+      "type": "text",
+      "width": 260,
+      "x": -3460,
+      "y": -2740
+    },
+    {
+      "color": "1",
+      "height": 100,
+      "id": "62f5fd62ebe61c15",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Widget Controller Set",
+      "type": "text",
+      "width": 280,
+      "x": -2630,
+      "y": -2520
+    },
+    {
+      "color": "6",
+      "height": 140,
+      "id": "cf0d790385b8ff7f",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "FOnPlayerStatChangedSignature: BlueprintAssignable",
+      "type": "text",
+      "width": 510,
+      "x": -760,
+      "y": 3180
+    },
+    {
+      "height": 145,
+      "id": "ca573963d1e034aa",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "AttributePointsChangedDelegate",
+      "type": "text",
+      "width": 485,
+      "x": -748,
+      "y": 2904
+    },
+    {
+      "color": "1",
+      "height": 160,
+      "id": "f9969aa8891a1576",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "AttributePointsChangedDelegateEvent",
+      "type": "text",
+      "width": 540,
+      "x": -760,
+      "y": 2200
+    },
+    {
+      "color": "4",
+      "height": 260,
+      "id": "c9e15a068f141914",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "BindCallbacksToDependencies",
+      "type": "text",
+      "width": 465,
+      "x": -660,
+      "y": 560
+    },
+    {
+      "color": "6",
+      "height": 160,
+      "id": "2569ad543ea3c0ea",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "FOnPlayerStatChangedSignature: BlueprintAssignable",
+      "type": "text",
+      "width": 510,
+      "x": 295,
+      "y": 920
+    },
+    {
+      "height": 145,
+      "id": "04f5968c6c64c0aa",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "AttributePointsChangedDelegate",
+      "type": "text",
+      "width": 485,
+      "x": 308,
+      "y": 618
+    },
+    {
+      "height": 100,
+      "id": "64dd5f0f669595e4",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "GetAttributeMenuWidgetController",
+      "type": "text",
+      "width": 380,
+      "x": -1000,
+      "y": -3240
+    },
+    {
+      "height": 100,
+      "id": "8e96e59c3f044076",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "GetAttributeMenuWidgetController",
+      "type": "text",
+      "width": 360,
+      "x": 520,
+      "y": -3240
+    },
+    {
+      "height": 120,
+      "id": "482c7053950d2016",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "AttributeMenuWidgetController",
+      "type": "text",
+      "width": 340,
+      "x": 530,
+      "y": -2920
+    }
+  ]
+}

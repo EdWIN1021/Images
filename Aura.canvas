@@ -152,30 +152,262 @@
       "id": "32e202ddb0009311",
       "toNode": "7afed4af9d4181c2",
       "toSide": "left"
+    },
+    {
+      "fromNode": "8dfa1ee537d61223",
+      "fromSide": "top",
+      "id": "271c7040d695b545",
+      "label": "Inherit",
+      "styleAttributes": {
+      },
+      "toNode": "78814c7e3b307c1c",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "be9727c8ceb2e8b9",
+      "fromSide": "right",
+      "id": "f77d788126ff7d14",
+      "label": "Create",
+      "styleAttributes": {
+      },
+      "toNode": "b1e5b75aab7d056a",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b1e5b75aab7d056a",
+      "fromSide": "right",
+      "id": "5e9f6126746dfd86",
+      "styleAttributes": {
+      },
+      "toNode": "32db513a82b89fc1",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "32db513a82b89fc1",
+      "fromSide": "right",
+      "id": "8528d6e34f247825",
+      "styleAttributes": {
+      },
+      "toNode": "6c7b4665119b8df5",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "6c7b4665119b8df5",
+      "fromSide": "right",
+      "id": "505489cac1e2e8d7",
+      "styleAttributes": {
+      },
+      "toNode": "e3351795c6bca33c",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e3351795c6bca33c",
+      "fromSide": "right",
+      "id": "b54806e1748032d2",
+      "styleAttributes": {
+      },
+      "toNode": "1fdb5507fa434c2f",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "1fdb5507fa434c2f",
+      "fromSide": "right",
+      "id": "ac8525987e2e6687",
+      "styleAttributes": {
+      },
+      "toNode": "d9a44fba88c74e1e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "3c2f489a495fc525",
+      "fromSide": "right",
+      "id": "12d4d4a56f22c1d1",
+      "styleAttributes": {
+      },
+      "toNode": "107ca50c7bc35820",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "3b13274082863a2a",
+      "fromSide": "right",
+      "id": "dfecf460cfbc0549",
+      "styleAttributes": {
+      },
+      "toNode": "049e911b8c0c6423",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "084e68d1e2217626",
+      "fromSide": "right",
+      "id": "cf66170e17910b45",
+      "styleAttributes": {
+      },
+      "toNode": "44d42039e4dd4309",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "886f13f671ccf032",
+      "fromSide": "right",
+      "id": "3bbf7887d2991277",
+      "styleAttributes": {
+      },
+      "toNode": "c2a7f0197562679d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "1367d32d52f6bdd0",
+      "fromSide": "top",
+      "id": "b53560c0e82d7e06",
+      "label": "Inherit",
+      "styleAttributes": {
+      },
+      "toNode": "8dfa1ee537d61223",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "68f680a880534349",
+      "fromSide": "right",
+      "id": "ef15a597c21e0c47",
+      "label": "Create",
+      "styleAttributes": {
+      },
+      "toNode": "b1e5b75aab7d056a",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b1e5b75aab7d056a",
+      "fromSide": "right",
+      "id": "7dec9f013cdbb508",
+      "styleAttributes": {
+      },
+      "toNode": "a8a489a7029e3fac",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "a8a489a7029e3fac",
+      "fromSide": "right",
+      "id": "23345e26a664c1ba",
+      "styleAttributes": {
+      },
+      "toNode": "9bfa861f31462516",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "9bfa861f31462516",
+      "fromSide": "right",
+      "id": "752363e4491646e9",
+      "styleAttributes": {
+      },
+      "toNode": "e3351795c6bca33c",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "9ec6c4623d642d6b",
+      "fromSide": "bottom",
+      "id": "4618ffac44c4a77c",
+      "styleAttributes": {
+      },
+      "toNode": "ffa9f2eb9941a035",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "ffa9f2eb9941a035",
+      "fromSide": "right",
+      "id": "4f541d1fb6914134",
+      "styleAttributes": {
+      },
+      "toNode": "c10118026d5cec2f",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "193ec29332043cfd",
+      "fromSide": "bottom",
+      "id": "df46844aa2c8f715",
+      "styleAttributes": {
+      },
+      "toNode": "8c1806a771e15627",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "c10118026d5cec2f",
+      "fromSide": "right",
+      "id": "eefedc3e9b94d7d5",
+      "styleAttributes": {
+      },
+      "toNode": "7337bd647a7499dd",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "7337bd647a7499dd",
+      "fromSide": "right",
+      "id": "2f87b773cc9bac28",
+      "styleAttributes": {
+      },
+      "toNode": "193ec29332043cfd",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "193ec29332043cfd",
+      "fromSide": "top",
+      "id": "3b9b9efab0bf2beb",
+      "styleAttributes": {
+      },
+      "toNode": "155cac773968fc76",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "c10118026d5cec2f",
+      "fromSide": "top",
+      "id": "aff26586a60484da",
+      "styleAttributes": {
+      },
+      "toNode": "32db513a82b89fc1",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "155cac773968fc76",
+      "fromSide": "top",
+      "id": "e38a034b5142b348",
+      "label": "==",
+      "styleAttributes": {
+      },
+      "toNode": "6c7b4665119b8df5",
+      "toSide": "bottom"
     }
   ],
   "nodes": [
     {
-      "height": 1280,
-      "id": "a450cbcaaf7265bb",
-      "label": "Attributr Points",
+      "height": 3800,
+      "id": "142bfb94e7e77b26",
+      "label": "UI",
       "styleAttributes": {
       },
       "type": "group",
-      "width": 4060,
-      "x": -1920,
-      "y": 2800
+      "width": 7570,
+      "x": -1640,
+      "y": 5120
     },
     {
-      "height": 1240,
+      "height": 1280,
       "id": "f5939e736ac18ada",
       "label": "LevelUp",
       "styleAttributes": {
       },
       "type": "group",
-      "width": 3340,
-      "x": -1440,
+      "width": 3773,
+      "x": -2260,
       "y": 880
+    },
+    {
+      "height": 2540,
+      "id": "3bf6fd137543c18d",
+      "label": "AuraHUD",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1580,
+      "x": 520,
+      "y": 5580
     },
     {
       "color": "2",
@@ -190,6 +422,18 @@
       "y": -1100
     },
     {
+      "color": "3",
+      "height": 1340,
+      "id": "78814c7e3b307c1c",
+      "label": "UAuraWidgetController<UObject>",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 2000,
+      "x": 3060,
+      "y": 5640
+    },
+    {
       "color": "5",
       "height": 940,
       "id": "ba83b5452b406084",
@@ -198,7 +442,7 @@
       },
       "type": "group",
       "width": 2620,
-      "x": -860,
+      "x": -1340,
       "y": 1040
     },
     {
@@ -250,6 +494,18 @@
       "y": -2880
     },
     {
+      "color": "5",
+      "height": 1150,
+      "id": "f0fea27ef53de0f3",
+      "label": "UAuraAbilitySystemLibrary",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 900,
+      "x": -1300,
+      "y": 5620
+    },
+    {
       "color": "2",
       "height": 320,
       "id": "b8c9997f5b7e227b",
@@ -260,6 +516,17 @@
       "width": 2820,
       "x": -880,
       "y": -1600
+    },
+    {
+      "height": 1060,
+      "id": "a47aecd926f10f50",
+      "label": "UAuraUserWidget",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 760,
+      "x": 2240,
+      "y": 7060
     },
     {
       "height": 263,
@@ -286,6 +553,54 @@
     },
     {
       "color": "6",
+      "height": 810,
+      "id": "e3351795c6bca33c",
+      "label": "WidgetControllerParams",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 520,
+      "x": 2280,
+      "y": 5840
+    },
+    {
+      "color": "3",
+      "height": 520,
+      "id": "8dfa1ee537d61223",
+      "label": "UOverlayWidgetController",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 760,
+      "x": 3680,
+      "y": 7220
+    },
+    {
+      "color": "1",
+      "height": 680,
+      "id": "8c9d03cb4988d39e",
+      "label": "AAuraCharacter",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 570,
+      "x": -200,
+      "y": 7160
+    },
+    {
+      "color": "3",
+      "height": 480,
+      "id": "1367d32d52f6bdd0",
+      "label": "UAttributeMenuWidgetController",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 760,
+      "x": 3680,
+      "y": 8020
+    },
+    {
+      "color": "6",
       "height": 455,
       "id": "10e2cc47abf2073c",
       "label": "ICombatInterface",
@@ -305,8 +620,32 @@
       },
       "type": "group",
       "width": 1220,
-      "x": -240,
+      "x": -720,
       "y": 1500
+    },
+    {
+      "color": "6",
+      "height": 607,
+      "id": "d9a44fba88c74e1e",
+      "label": "WidgetControllerParams",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 480,
+      "x": 3900,
+      "y": 5877
+    },
+    {
+      "color": "6",
+      "height": 540,
+      "id": "b1e5b75aab7d056a",
+      "label": "WidgetControllerParams",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 470,
+      "x": -140,
+      "y": 6000
     },
     {
       "height": 440,
@@ -321,172 +660,15 @@
     },
     {
       "color": "4",
-      "height": 80,
-      "id": "564b6ac2bf15bea1",
+      "height": 160,
+      "id": "6e645c3a639ccfa4",
       "styleAttributes": {
       },
-      "text": "LevelUp: BlueprintNativeEvent",
+      "text": "AddCharacterAbilities",
       "type": "text",
-      "width": 380,
-      "x": -1820,
-      "y": -893
-    },
-    {
-      "color": "4",
-      "height": 78,
-      "id": "f34d03cc92e8cc4e",
-      "styleAttributes": {
-      },
-      "text": "AddToXP: BlueprintNativeEvent",
-      "type": "text",
-      "width": 380,
-      "x": -1820,
-      "y": -1080
-    },
-    {
-      "color": "4",
-      "height": 83,
-      "id": "a97b0beb14ef671c",
-      "styleAttributes": {
-      },
-      "text": "AddToLevel",
-      "type": "text",
-      "width": 285,
-      "x": -682,
-      "y": -1457
-    },
-    {
-      "color": "4",
-      "height": 85,
-      "id": "16149504badfe130",
-      "styleAttributes": {
-      },
-      "text": "GetXP",
-      "type": "text",
-      "width": 250,
-      "x": 165,
-      "y": -1488
-    },
-    {
-      "color": "5",
-      "height": 85,
-      "id": "0b85d8800b7d6133",
-      "styleAttributes": {
-      },
-      "text": "LevelUpInfo",
-      "type": "text",
-      "width": 250,
-      "x": 635,
-      "y": -1500
-    },
-    {
-      "color": "4",
-      "height": 80,
-      "id": "2fd4c46242668ba4",
-      "styleAttributes": {
-      },
-      "text": "BindCallbacksToDependencies",
-      "type": "text",
-      "width": 360,
-      "x": -719,
-      "y": -2122
-    },
-    {
-      "color": "4",
-      "height": 80,
-      "id": "fe63e7836d9687e2",
-      "styleAttributes": {
-      },
-      "text": "GetXP: BlueprintNativeEvent",
-      "type": "text",
-      "width": 380,
-      "x": -1820,
-      "y": -720
-    },
-    {
-      "color": "4",
-      "height": 80,
-      "id": "daf464a0518381de",
-      "styleAttributes": {
-      },
-      "text": "AddToPlayerLevel: BlueprintNativeEvent",
-      "type": "text",
-      "width": 380,
-      "x": -1820,
-      "y": -1280
-    },
-    {
-      "color": "1",
-      "height": 129,
-      "id": "f54ddc73cbe75a94",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Event Widget Controller Set",
-      "type": "text",
-      "width": 260,
-      "x": -780,
-      "y": 1193
-    },
-    {
-      "height": 136,
-      "id": "2f55e4cd61107e93",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Player Level Changed Delegate",
-      "type": "text",
-      "width": 320,
-      "x": -300,
-      "y": 1193
-    },
-    {
-      "height": 102,
-      "id": "2a5e3162afe8cd68",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Add to Viewport",
-      "type": "text",
-      "width": 220,
-      "x": 1040,
-      "y": 1207
-    },
-    {
-      "height": 77,
-      "id": "7afed4af9d4181c2",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "SetText",
-      "type": "text",
-      "width": 250,
-      "x": 665,
-      "y": 1220
-    },
-    {
-      "color": "4",
-      "height": 100,
-      "id": "687114810f922bf3",
-      "styleAttributes": {
-      },
-      "text": "LevelUp: Implementation",
-      "type": "text",
-      "width": 340,
-      "x": 1060,
-      "y": -855
-    },
-    {
-      "color": "4",
-      "height": 100,
-      "id": "5c1fdb72d53b2447",
-      "styleAttributes": {
-      },
-      "text": "GetPlayerLevel_Implementation",
-      "type": "text",
-      "width": 320,
-      "x": -280,
-      "y": -853
+      "width": 470,
+      "x": -120,
+      "y": 0
     },
     {
       "color": "4",
@@ -502,6 +684,18 @@
     },
     {
       "color": "4",
+      "height": 100,
+      "id": "687114810f922bf3",
+      "styleAttributes": {
+      },
+      "text": "LevelUp: Implementation",
+      "type": "text",
+      "width": 340,
+      "x": 1060,
+      "y": -855
+    },
+    {
+      "color": "4",
       "height": 101,
       "id": "177cfa3213fdfdc7",
       "styleAttributes": {
@@ -511,90 +705,6 @@
       "width": 350,
       "x": 585,
       "y": -855
-    },
-    {
-      "color": "4",
-      "height": 170,
-      "id": "96413c554bb87bbc",
-      "styleAttributes": {
-      },
-      "text": "InitAbilityActorInfo",
-      "type": "text",
-      "width": 470,
-      "x": -120,
-      "y": -360
-    },
-    {
-      "color": "4",
-      "height": 120,
-      "id": "2daf875c5bb822d7",
-      "styleAttributes": {
-      },
-      "text": "PossessedBy",
-      "type": "text",
-      "width": 320,
-      "x": -640,
-      "y": -190
-    },
-    {
-      "color": "4",
-      "height": 160,
-      "id": "6e645c3a639ccfa4",
-      "styleAttributes": {
-      },
-      "text": "AddCharacterAbilities",
-      "type": "text",
-      "width": 470,
-      "x": -120,
-      "y": 0
-    },
-    {
-      "height": 213,
-      "id": "14bcafdf05490eee",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "TBD",
-      "type": "text",
-      "width": 300,
-      "x": -1340,
-      "y": 1407
-    },
-    {
-      "color": "4",
-      "height": 60,
-      "id": "7d8b0573c3275649",
-      "styleAttributes": {
-      },
-      "text": "GetPlayerLevel: BlueprintNativeEvent",
-      "type": "text",
-      "width": 340,
-      "x": -1780,
-      "y": -60
-    },
-    {
-      "color": "4",
-      "height": 60,
-      "id": "d3cca5aac67e0365",
-      "styleAttributes": {
-      },
-      "text": "FindLevelForXP: BlueprintNativeEvent",
-      "type": "text",
-      "width": 340,
-      "x": -1780,
-      "y": 140
-    },
-    {
-      "color": "4",
-      "height": 94,
-      "id": "5e7e7d4f5533d69c",
-      "styleAttributes": {
-      },
-      "text": "AddToPlayerLevel_Implementation",
-      "type": "text",
-      "width": 320,
-      "x": -700,
-      "y": -851
     },
     {
       "color": "4",
@@ -632,40 +742,124 @@
       "y": -855
     },
     {
-      "height": 102,
-      "id": "cb29022bc0c935ab",
+      "color": "4",
+      "height": 60,
+      "id": "d3cca5aac67e0365",
       "styleAttributes": {
-        "textAlign": "center"
       },
-      "text": "Create WBP Level Up Message Widget\n",
+      "text": "FindLevelForXP: BlueprintNativeEvent",
       "type": "text",
       "width": 340,
-      "x": 192,
-      "y": 1207
+      "x": -1780,
+      "y": 140
     },
     {
+      "color": "4",
       "height": 60,
-      "id": "64cc1cfb6a7ec5eb",
+      "id": "7d8b0573c3275649",
       "styleAttributes": {
-        "textAlign": "center"
       },
-      "text": "PlaySound2D",
+      "text": "GetPlayerLevel: BlueprintNativeEvent",
       "type": "text",
-      "width": 250,
-      "x": -183,
-      "y": 1590
+      "width": 340,
+      "x": -1780,
+      "y": -60
     },
     {
-      "height": 61,
-      "id": "e55b791a187b13f7",
+      "color": "4",
+      "height": 80,
+      "id": "fe63e7836d9687e2",
       "styleAttributes": {
-        "textAlign": "center"
       },
-      "text": "Play Animation",
+      "text": "GetXP: BlueprintNativeEvent",
       "type": "text",
-      "width": 250,
-      "x": 217,
-      "y": 1590
+      "width": 380,
+      "x": -1820,
+      "y": -720
+    },
+    {
+      "color": "4",
+      "height": 120,
+      "id": "2daf875c5bb822d7",
+      "styleAttributes": {
+      },
+      "text": "PossessedBy",
+      "type": "text",
+      "width": 320,
+      "x": -640,
+      "y": -190
+    },
+    {
+      "color": "4",
+      "height": 83,
+      "id": "a97b0beb14ef671c",
+      "styleAttributes": {
+      },
+      "text": "AddToLevel",
+      "type": "text",
+      "width": 285,
+      "x": -682,
+      "y": -1457
+    },
+    {
+      "color": "4",
+      "height": 100,
+      "id": "5c1fdb72d53b2447",
+      "styleAttributes": {
+      },
+      "text": "GetPlayerLevel_Implementation",
+      "type": "text",
+      "width": 320,
+      "x": -280,
+      "y": -853
+    },
+    {
+      "color": "4",
+      "height": 170,
+      "id": "96413c554bb87bbc",
+      "styleAttributes": {
+      },
+      "text": "InitAbilityActorInfo",
+      "type": "text",
+      "width": 470,
+      "x": -120,
+      "y": -360
+    },
+    {
+      "color": "4",
+      "height": 78,
+      "id": "f34d03cc92e8cc4e",
+      "styleAttributes": {
+      },
+      "text": "AddToXP: BlueprintNativeEvent",
+      "type": "text",
+      "width": 380,
+      "x": -1820,
+      "y": -1080
+    },
+    {
+      "color": "4",
+      "height": 80,
+      "id": "daf464a0518381de",
+      "styleAttributes": {
+      },
+      "text": "AddToPlayerLevel: BlueprintNativeEvent",
+      "type": "text",
+      "width": 380,
+      "x": -1820,
+      "y": -1280
+    },
+    {
+      "color": "4",
+      "height": 80,
+      "id": "564b6ac2bf15bea1",
+      "styleAttributes": {
+      },
+      "text": "LevelUp: BlueprintNativeEvent",
+      "type": "text",
+      "width": 380,
+      "x": -1820,
+      "y": -893
     },
     {
       "color": "4",
@@ -703,6 +897,227 @@
       "y": -2122
     },
     {
+      "color": "4",
+      "height": 94,
+      "id": "5e7e7d4f5533d69c",
+      "styleAttributes": {
+      },
+      "text": "AddToPlayerLevel_Implementation",
+      "type": "text",
+      "width": 320,
+      "x": -700,
+      "y": -851
+    },
+    {
+      "color": "4",
+      "height": 80,
+      "id": "2fd4c46242668ba4",
+      "styleAttributes": {
+      },
+      "text": "BindCallbacksToDependencies",
+      "type": "text",
+      "width": 360,
+      "x": -719,
+      "y": -2122
+    },
+    {
+      "color": "5",
+      "height": 85,
+      "id": "0b85d8800b7d6133",
+      "styleAttributes": {
+      },
+      "text": "LevelUpInfo",
+      "type": "text",
+      "width": 250,
+      "x": 635,
+      "y": -1500
+    },
+    {
+      "color": "4",
+      "height": 85,
+      "id": "16149504badfe130",
+      "styleAttributes": {
+      },
+      "text": "GetXP",
+      "type": "text",
+      "width": 250,
+      "x": 165,
+      "y": -1488
+    },
+    {
+      "color": "4",
+      "height": 180,
+      "id": "16d9ba809aeefd46",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "BindCallbacksToDependencies",
+      "type": "text",
+      "width": 480,
+      "x": 3830,
+      "y": 7400
+    },
+    {
+      "color": "5",
+      "height": 91,
+      "id": "107ca50c7bc35820",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "PlayerController",
+      "type": "text",
+      "width": 260,
+      "x": 4660,
+      "y": 5920
+    },
+    {
+      "height": 60,
+      "id": "3c2f489a495fc525",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "PlayerController",
+      "type": "text",
+      "width": 260,
+      "x": 4000,
+      "y": 5935
+    },
+    {
+      "height": 77,
+      "id": "7afed4af9d4181c2",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "SetText",
+      "type": "text",
+      "width": 250,
+      "x": 185,
+      "y": 1220
+    },
+    {
+      "height": 102,
+      "id": "2a5e3162afe8cd68",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Add to Viewport",
+      "type": "text",
+      "width": 220,
+      "x": 560,
+      "y": 1207
+    },
+    {
+      "height": 61,
+      "id": "e55b791a187b13f7",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Play Animation",
+      "type": "text",
+      "width": 250,
+      "x": -263,
+      "y": 1590
+    },
+    {
+      "height": 60,
+      "id": "96feb38a8d30be80",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "AttributeSet",
+      "type": "text",
+      "width": 260,
+      "x": -40,
+      "y": 6420
+    },
+    {
+      "height": 60,
+      "id": "6f2f0d64b157377f",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "AbilitySystemComponent",
+      "type": "text",
+      "width": 260,
+      "x": -40,
+      "y": 6300
+    },
+    {
+      "height": 102,
+      "id": "cb29022bc0c935ab",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Create WBP Level Up Message Widget\n",
+      "type": "text",
+      "width": 340,
+      "x": -288,
+      "y": 1207
+    },
+    {
+      "color": "5",
+      "height": 71,
+      "id": "049e911b8c0c6423",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "PlayerState",
+      "type": "text",
+      "width": 260,
+      "x": 4660,
+      "y": 6057
+    },
+    {
+      "color": "5",
+      "height": 97,
+      "id": "44d42039e4dd4309",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "AbilitySystemComponent",
+      "type": "text",
+      "width": 260,
+      "x": 4660,
+      "y": 6189
+    },
+    {
+      "height": 60,
+      "id": "3b13274082863a2a",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "PlayerState",
+      "type": "text",
+      "width": 260,
+      "x": 4000,
+      "y": 6057
+    },
+    {
+      "height": 60,
+      "id": "084e68d1e2217626",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "AbilitySystemComponent",
+      "type": "text",
+      "width": 260,
+      "x": 4000,
+      "y": 6197
+    },
+    {
+      "color": "4",
+      "height": 175,
+      "id": "1fdb5507fa434c2f",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "SetWidgetControllerParams",
+      "type": "text",
+      "width": 460,
+      "x": 3200,
+      "y": 6093
+    },
+    {
       "height": 60,
       "id": "f20865d3e64aa077",
       "styleAttributes": {
@@ -711,8 +1126,349 @@
       "text": "Remove from Parent",
       "type": "text",
       "width": 250,
-      "x": 645,
+      "x": 165,
       "y": 1593
+    },
+    {
+      "color": "4",
+      "height": 235,
+      "id": "c10118026d5cec2f",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "InitOverlay",
+      "type": "text",
+      "width": 460,
+      "x": 660,
+      "y": 7453
+    },
+    {
+      "color": "4",
+      "height": 400,
+      "id": "32db513a82b89fc1",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "GetOverlayWidgetController",
+      "type": "text",
+      "width": 460,
+      "x": 680,
+      "y": 5700
+    },
+    {
+      "color": "4",
+      "height": 190,
+      "id": "be9727c8ceb2e8b9",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "GetOverlayWidgetController: BlueprintPure\n",
+      "type": "text",
+      "width": 560,
+      "x": -1100,
+      "y": 5805
+    },
+    {
+      "color": "4",
+      "height": 258,
+      "id": "68f680a880534349",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "GetAttributeMenuWidgetController",
+      "type": "text",
+      "width": 560,
+      "x": -1100,
+      "y": 6440
+    },
+    {
+      "height": 60,
+      "id": "9407aad10cd4c401",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "PlayerState",
+      "type": "text",
+      "width": 260,
+      "x": -40,
+      "y": 6180
+    },
+    {
+      "color": "5",
+      "height": 180,
+      "id": "7337bd647a7499dd",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "OverlayWidget",
+      "type": "text",
+      "width": 330,
+      "x": 1560,
+      "y": 7481
+    },
+    {
+      "color": "4",
+      "height": 180,
+      "id": "3926f9fb3f91ba99",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "BindCallbacksToDependencies",
+      "type": "text",
+      "width": 480,
+      "x": 3830,
+      "y": 8180
+    },
+    {
+      "color": "4",
+      "height": 390,
+      "id": "a8a489a7029e3fac",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "GetAttributeMenuWidgetController",
+      "type": "text",
+      "width": 460,
+      "x": 980,
+      "y": 6308
+    },
+    {
+      "color": "5",
+      "height": 175,
+      "id": "9bfa861f31462516",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "AttributeMenuWidgetController: NewObject",
+      "type": "text",
+      "width": 460,
+      "x": 1560,
+      "y": 6415
+    },
+    {
+      "height": 60,
+      "id": "886f13f671ccf032",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "AttributeSet",
+      "type": "text",
+      "width": 260,
+      "x": 4000,
+      "y": 6342
+    },
+    {
+      "color": "4",
+      "height": 180,
+      "id": "8fcff217a595fece",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "BindCallbacksToDependencies",
+      "type": "text",
+      "width": 480,
+      "x": 3180,
+      "y": 6640
+    },
+    {
+      "color": "5",
+      "height": 77,
+      "id": "c2a7f0197562679d",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "AttributeSet",
+      "type": "text",
+      "width": 260,
+      "x": 4660,
+      "y": 6342
+    },
+    {
+      "color": "5",
+      "height": 175,
+      "id": "6c7b4665119b8df5",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "OverlayWidgetController: NewObject",
+      "type": "text",
+      "width": 460,
+      "x": 1560,
+      "y": 5821
+    },
+    {
+      "height": 60,
+      "id": "698d935d1d5ce374",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "PlayerController",
+      "type": "text",
+      "width": 260,
+      "x": -40,
+      "y": 6080
+    },
+    {
+      "color": "4",
+      "height": 100,
+      "id": "9ec6c4623d642d6b",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "PossessedBy",
+      "type": "text",
+      "width": 260,
+      "x": -65,
+      "y": 7260
+    },
+    {
+      "color": "4",
+      "height": 100,
+      "id": "ffa9f2eb9941a035",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "InitAbilityActorInfo",
+      "type": "text",
+      "width": 260,
+      "x": -65,
+      "y": 7520
+    },
+    {
+      "color": "4",
+      "height": 240,
+      "id": "8c1806a771e15627",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "WidgetControllerSet",
+      "type": "text",
+      "width": 389,
+      "x": 2394,
+      "y": 7820
+    },
+    {
+      "height": 60,
+      "id": "83d8102e23b8224c",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "AttributeSet",
+      "type": "text",
+      "width": 260,
+      "x": 2380,
+      "y": 6355
+    },
+    {
+      "height": 67,
+      "id": "e72ee79e3a7be443",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "PlayerState",
+      "type": "text",
+      "width": 260,
+      "x": 2380,
+      "y": 6046
+    },
+    {
+      "color": "4",
+      "height": 220,
+      "id": "193ec29332043cfd",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "SetWidgetController",
+      "type": "text",
+      "width": 370,
+      "x": 2404,
+      "y": 7461
+    },
+    {
+      "color": "1",
+      "height": 129,
+      "id": "f54ddc73cbe75a94",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Event Widget Controller Set",
+      "type": "text",
+      "width": 260,
+      "x": -1260,
+      "y": 1193
+    },
+    {
+      "height": 136,
+      "id": "2f55e4cd61107e93",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Player Level Changed Delegate",
+      "type": "text",
+      "width": 320,
+      "x": -780,
+      "y": 1193
+    },
+    {
+      "height": 60,
+      "id": "64cc1cfb6a7ec5eb",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "PlaySound2D",
+      "type": "text",
+      "width": 250,
+      "x": -663,
+      "y": 1590
+    },
+    {
+      "height": 213,
+      "id": "14bcafdf05490eee",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "TBD",
+      "type": "text",
+      "width": 300,
+      "x": -1820,
+      "y": 1407
+    },
+    {
+      "color": "5",
+      "height": 160,
+      "id": "155cac773968fc76",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "WidgetController",
+      "type": "text",
+      "width": 309,
+      "x": 2431,
+      "y": 7120
+    },
+    {
+      "height": 68,
+      "id": "6d93c003d99e1af9",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "AbilitySystemComponent",
+      "type": "text",
+      "width": 260,
+      "x": 2380,
+      "y": 6189
+    },
+    {
+      "height": 83,
+      "id": "e86a7bf1578c74c6",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "PlayerController",
+      "type": "text",
+      "width": 260,
+      "x": 2380,
+      "y": 5908
     }
   ]
 }

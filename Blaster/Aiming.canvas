@@ -1,0 +1,210 @@
+{
+  "edges": [
+    {
+      "fromNode": "d7f7ec2ee007597d",
+      "fromSide": "left",
+      "id": "143262c5fe670f14",
+      "label": "True",
+      "toNode": "1dcc8de5a2344009",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "c18c0a9b449e890f",
+      "fromSide": "right",
+      "id": "030bf1713fd926cc",
+      "toNode": "64d434256c6747ef",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "16e8bce8ad05fc40",
+      "fromSide": "right",
+      "id": "524571cccb280481",
+      "toNode": "c18c0a9b449e890f",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e905bb71545c2929",
+      "fromSide": "left",
+      "id": "a9830b3219fe23cb",
+      "label": "False",
+      "toNode": "1dcc8de5a2344009",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "60911b9431b46c92",
+      "fromSide": "bottom",
+      "id": "b31e6818aec7797d",
+      "toNode": "64d434256c6747ef",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "e944d0ec13aa133a",
+      "fromSide": "bottom",
+      "id": "1cd48ba011ec13ee",
+      "label": "Server",
+      "toNode": "16e8bce8ad05fc40",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "1dcc8de5a2344009",
+      "fromSide": "left",
+      "id": "bc3b4931f5c91d6b",
+      "toNode": "e944d0ec13aa133a",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "1dcc8de5a2344009",
+      "fromSide": "bottom",
+      "id": "06ae64634fe54a23",
+      "label": "Client",
+      "toNode": "16e8bce8ad05fc40",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 1143,
+      "id": "9b4f783db75c11d1",
+      "label": "Aiming",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 2560,
+      "x": -1280,
+      "y": -583
+    },
+    {
+      "color": "3",
+      "height": 780,
+      "id": "40ab646990b29f2e",
+      "label": "CombatComponent",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 780,
+      "x": -1060,
+      "y": -383
+    },
+    {
+      "color": "2",
+      "height": 780,
+      "id": "4f192cd0b18c4ba5",
+      "label": "UAnimInstance",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 480,
+      "x": 640,
+      "y": -390
+    },
+    {
+      "color": "1",
+      "height": 780,
+      "id": "164b67fb8f12df44",
+      "label": "ABlasterCharacter",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 452,
+      "x": 28,
+      "y": -383
+    },
+    {
+      "color": "4",
+      "height": 80,
+      "id": "d7f7ec2ee007597d",
+      "styleAttributes": {
+      },
+      "text": "AimButtonPressed",
+      "type": "text",
+      "width": 280,
+      "x": 120,
+      "y": -303
+    },
+    {
+      "color": "4",
+      "height": 90,
+      "id": "e905bb71545c2929",
+      "styleAttributes": {
+      },
+      "text": "AimButtonReleased",
+      "type": "text",
+      "width": 280,
+      "x": 120,
+      "y": -86
+    },
+    {
+      "color": "4",
+      "height": 85,
+      "id": "1dcc8de5a2344009",
+      "styleAttributes": {
+      },
+      "text": "SetAiming",
+      "type": "text",
+      "width": 180,
+      "x": -560,
+      "y": -177
+    },
+    {
+      "color": "4",
+      "height": 91,
+      "id": "e944d0ec13aa133a",
+      "styleAttributes": {
+      },
+      "text": "ServerSetAiming_Implementation",
+      "type": "text",
+      "width": 320,
+      "x": -1020,
+      "y": -180
+    },
+    {
+      "color": "5",
+      "height": 146,
+      "id": "16e8bce8ad05fc40",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "bAiming",
+      "type": "text",
+      "width": 300,
+      "x": -820,
+      "y": 98
+    },
+    {
+      "color": "4",
+      "height": 73,
+      "id": "c18c0a9b449e890f",
+      "styleAttributes": {
+      },
+      "text": "IsAiming",
+      "type": "text",
+      "width": 280,
+      "x": 120,
+      "y": 135
+    },
+    {
+      "color": "4",
+      "height": 98,
+      "id": "60911b9431b46c92",
+      "styleAttributes": {
+      },
+      "text": "NativeUpdateAnimation",
+      "type": "text",
+      "width": 250,
+      "x": 760,
+      "y": -138
+    },
+    {
+      "color": "5",
+      "height": 146,
+      "id": "64d434256c6747ef",
+      "styleAttributes": {
+      },
+      "text": "bAiming",
+      "type": "text",
+      "width": 250,
+      "x": 760,
+      "y": 99
+    }
+  ]
+}

@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Aura.canvas",
+                "file": "Aura/LevelUp.canvas",
                 "viewState": {
-                  "x": 8.725236982766774,
-                  "y": 1716.2898302456078,
-                  "zoom": -1.0886235798853006
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Aura"
+              "title": "LevelUp"
             }
           }
         ]
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 315.5
   },
   "right": {
     "id": "a85427bef535b3ed",
@@ -173,8 +173,17 @@
   },
   "active": "f6b93a2b9bdc3ebe",
   "lastOpenFiles": [
-    "Blaster.canvas",
+    "Aura/ShowAttributePoints.canvas",
+    "Aura/LevelUp.canvas",
+    "Aura/UpgradeAttributes.canvas",
     "Aura.canvas",
+    "Blaster/Aiming.canvas",
+    "Blaster/Crouch.canvas",
+    "Blaster/Session.canvas",
+    "Blaster.canvas",
+    "Blaster/Untitled.md",
+    "Blaster",
+    "Aura",
     "Unreal Engine.md",
     "Class/AActor.md",
     "ad.md",
