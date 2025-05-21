@@ -11,17 +11,12 @@
             "id": "f6b93a2b9bdc3ebe",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "image",
               "state": {
-                "file": "Aura/LevelUp.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Obsidian/Screenshot 2025-05-20 134231.png"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "LevelUp"
+              "icon": "lucide-image",
+              "title": "Screenshot 2025-05-20 134231"
             }
           }
         ]
@@ -81,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 349.5
   },
   "right": {
     "id": "a85427bef535b3ed",
@@ -173,8 +168,12 @@
   },
   "active": "f6b93a2b9bdc3ebe",
   "lastOpenFiles": [
-    "Aura/ShowAttributePoints.canvas",
+    "README.md",
+    "Obsidian/Screenshot 2025-05-20 134231.png",
+    "Obsidian/Untitled",
+    "Obsidian",
     "Aura/LevelUp.canvas",
+    "Aura/ShowAttributePoints.canvas",
     "Aura/UpgradeAttributes.canvas",
     "Aura.canvas",
     "Blaster/Aiming.canvas",
